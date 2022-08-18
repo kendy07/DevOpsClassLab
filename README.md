@@ -96,7 +96,7 @@ Go to Jenkins web console, click “New Item” and create a “Freestyle projec
 
 ![](./images/p15.png)
 
-To connect your GitHub repository, you will need to provide its URL, you can copy from the repository itself
+To connect your GitHub repository, you will need to provide its URL, you can copy from the repository itself (https://github.com/toretawanda/tooling.git)
 
 ![](./images/p14.png)
 
