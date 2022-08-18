@@ -1,7 +1,5 @@
 # Tooling Website deployment automation with Continuous Integration. Introduction to Jenkins
 
-In previous [Load Balancer Solution With Apache](https://github.com/samuelbartels20/load-balancer-solution-with-apache) we introduced horizontal scalability concept, which allow us to add new Web Servers to our Tooling Website and you have successfully deployed a set up with 2 Web Servers and also a Load Balancer to distribute traffic between them. If it is just two or three servers - it is not a big deal to configure them manually. Imagine that you would need to repeat the same task over and over again adding dozens or even hundreds of servers.
-
 DevOps is about Agility, and speedy release of software and web solutions. One of the ways to guarantee fast and repeatable deployments is Automation of routine tasks.
 
 In this project we are going to start automating part of our routine tasks with a free and open source automation server - [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software)). It is one of the mostl popular [CI/CD](https://en.wikipedia.org/wiki/CI/CD) tools, it was created by a former Sun Microsystems developer Kohsuke Kawaguchi and the project originally had a named “Hudson”.
