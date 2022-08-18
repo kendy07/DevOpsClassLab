@@ -9,7 +9,7 @@ Acording to Circle CI, Continuous integration (CI) is a software development str
 In our project we are going to utilize Jenkins CI capabilities to make sure that every change made to the source code in GitHub https://github.com/<yourname>/tooling will be automatically be updated to the Tooling Website.
 
 Enhance the architecture prepared in [Load Balancer Solution With Apache
-](https://github.com/samuelbartels20/load-balancer-solution-with-apache) by adding a Jenkins server, configure a job to automatically deploy source codes changes from Git to NFS server.
+] by adding a Jenkins server, configure a job to automatically deploy source codes changes from Git to NFS server.
 
 Here is how your update architecture will look like upon competion of this project:
 
